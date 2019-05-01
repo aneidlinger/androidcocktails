@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Drink Recipes</string>
+    <string name="title">Cocktails</string>
+    <string name="success">Success!</string>
+    <string name="incorrect">Incorrect Password or Username</string>
+    <string name="login">GET STARTED</string>
+    <string name="welcome">Welcome!</string>
+    <string name="dirty">Dirty Martini</string>
+    <string name="recipe">Recipe:</string>
+    <string name="serves">Serves:</string>
+    <string name="dirty_instructions">Add ice to a cocktail mixing glass. Combine all ingredients in the glass. Stir with a bar spoon until thoroughly mixed and chilled. Strain with a Julep strainer into chilled martini glass or into a rocks glass filled with fresh ice. Garnish with an olive or two.</string>
+    <string name="of_instructions">Add ice to a cocktail mixing glass. Combine all ingredients in the glass. Stir with a bar spoon until thoroughly mixed and chilled. Strain with a Julep strainer into a rocks glass filled with fresh ice. Garnish with an orange peel.</string>
+    <string name="man_instructions">Add ice to a cocktail mixing glass. Combine all ingredients in the glass. Stir with a bar spoon until thoroughly mixed and chilled. Strain into chilled coupe glass or into a rocks glass filled with fresh ice. Garnish with a maraschino cherry.</string>
+    <string name="marg_instructions">Add ice to a cocktail shaker. Combine all ingredients in the shaker. Shake until thoroughly mixed and chilled. Strain with a Hawthorne strainer into a chilled margarita glass filled with ice. Garnish with a wedge of lime.</string>
+    <string name="old_fashioned">Old Fashioned</string>
+    <string name="manhattan">Manhattan</string>
+    <string name="margarita">Margarita</string>
+    <string name="BAC">Estimate Your BAC\n(Blood-Alcohol Content)</string>
+    <string name="enter_num_drinks">Enter the number of drinks you\'ve consumed:</string>
+    <string name="enter_body_weight">Enter your body weight:</string>
+    <string name="man_woman">Are you a man or a woman:</string>
+    <string name="length_drinking">Enter the length of time since you began drinking:</string>
+    <string name="calc">CALCULATE</string>
+    <string name="Estimated_BAC">Estimated BAC:</string>
+    <string name="limit">The legal limit is 0.08%</string>
+    <string name="man">Man</string>
+    <string name="woman">Woman</string>
+    <string name="hours">hours</string>
+    <string name="pounds">lbs.</string>
+    <string name="beer">Beer (12 oz.):</string>
+    <string name="wine">Wine (5 oz.):</string>
+    <string name="mixed">Mixed Drink or Shot (1.5 oz.):</string>
+    <string name="dbl_shot">(For a \"double\" or a large cocktail,\nmultiply by two)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dirty_pic">Dirty Martini in a Glass</string>
+    <string name="of_pic">Old Fashioned in a Glass</string>
+    <string name="marg_pic">Margarita in a Glass</string>
+    <string name="man_pic">Manhattan in a Glass</string>
+
+</resources>
